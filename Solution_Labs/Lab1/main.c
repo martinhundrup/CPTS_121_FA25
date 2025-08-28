@@ -2,10 +2,10 @@
  * File: main.c
  * Author: Martin Hundrup
  * Professor: Andy O'Fallon
- * Class: CPT_S 121, Fall 2024
+ * Class: CPT_S 121, Fall 2025
  * Assignment: Lab 1
  * Created: August 23, 2024
- * Last Updated: August 30, 2024
+ * Last Updated: August 28, 2025
  *
  * Description: This file contains the implementation of lab 1
  */
